@@ -1,0 +1,21 @@
+﻿<Window x:Class="practice1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practice1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image Source="/Image1.png" Stretch="Fill"/>
+        <Label Content="Введите число 1" HorizontalAlignment="Left" Margin="172,141,0,0" VerticalAlignment="Top" Height="33" Width="118"/>
+        <Label Content="Введите число 2" HorizontalAlignment="Left" Margin="488,141,0,0" VerticalAlignment="Top" Height="33" Width="118" RenderTransformOrigin="0.615,0.52"/>
+        <Label Content="Введите знак" HorizontalAlignment="Center" Margin="0,141,0,0" VerticalAlignment="Top" Height="33" Width="118"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="30" Margin="335,285,0,0" VerticalAlignment="Top" Width="92" Click="Button_Click_1"/>
+        <TextBox x:Name="TBA" HorizontalAlignment="Left" Height="33" Margin="172,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="TBop" HorizontalAlignment="Left" Height="33" Margin="329,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <TextBox x:Name="TBB" HorizontalAlignment="Left" Height="33" Margin="488,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="104"/>
+        <Label x:Name="l" Content="Label" HorizontalAlignment="Left" Height="34" Margin="341,236,0,0" VerticalAlignment="Top" Width="86"/>
+        <Label Content="Значения для sin , cos , tg и ctg вводятся в поле 1" HorizontalAlignment="Left" Height="67" Margin="172,337,0,0" VerticalAlignment="Top" Width="434"/>
+    </Grid>
+</Window>
