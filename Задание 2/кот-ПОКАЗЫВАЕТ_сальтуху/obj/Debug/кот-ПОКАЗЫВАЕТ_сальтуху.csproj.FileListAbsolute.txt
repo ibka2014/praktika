@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\bin\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.exe.config
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\bin\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.exe
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\bin\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.pdb
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\App.g.cs
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху_MarkupCompile.cache
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху_MarkupCompile.lref
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.g.resources
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот_ПОКАЗЫВАЕТ_сальтуху.Properties.Resources.resources
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.csproj.GenerateResource.cache
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.exe
+C:\Users\user\source\repos\кот-ПОКАЗЫВАЕТ_сальтуху\obj\Debug\кот-ПОКАЗЫВАЕТ_сальтуху.pdb

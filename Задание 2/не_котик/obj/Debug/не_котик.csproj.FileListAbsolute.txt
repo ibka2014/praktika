@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\practika\не_котик\bin\Debug\не_котик.exe.config
+C:\Users\user\Desktop\practika\не_котик\bin\Debug\не_котик.exe
+C:\Users\user\Desktop\practika\не_котик\bin\Debug\не_котик.pdb
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\App.g.cs
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик_MarkupCompile.cache
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик_MarkupCompile.lref
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик.g.resources
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик.Properties.Resources.resources
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик.csproj.GenerateResource.cache
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик.exe
+C:\Users\user\Desktop\practika\не_котик\obj\Debug\не_котик.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="кот_ПОКАЗЫВАЕТ_сальтуху.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:кот_ПОКАЗЫВАЕТ_сальтуху"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Image Source="Image4.png" Stretch="Fill"/>
+        <Button Content="Подсчитать" HorizontalAlignment="Left" Margin="365,343,0,0" VerticalAlignment="Top" Width="157" Height="66" Click="Button_Click" Background="#FFA41821"/>
+        <TextBox x:Name="grandma" HorizontalAlignment="Left" Height="55" Margin="489,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FF7A343B" RenderTransformOrigin="1.902,0.949"/>
+        <Label x:Name="time" Content="" HorizontalAlignment="Left" Margin="146,245,0,0" VerticalAlignment="Top" Width="566" Background="#FF972E39" Height="58"/>
+        <Label x:Name="time_Copy" Content="Введите кол-во старушек" HorizontalAlignment="Left" Margin="273,141,0,0" VerticalAlignment="Top" Width="211" Background="#FF972E39" Height="54" RenderTransformOrigin="1.07,0.115"/>
+    </Grid>
+</Window>
