@@ -1,0 +1,8 @@
+X:\ASP.NET\Lab7\Lab7\Task5\bin\Debug\Task5.exe.config
+X:\ASP.NET\Lab7\Lab7\Task5\bin\Debug\Task5.exe
+X:\ASP.NET\Lab7\Lab7\Task5\bin\Debug\Task5.pdb
+X:\ASP.NET\Lab7\Lab7\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+X:\ASP.NET\Lab7\Lab7\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+X:\ASP.NET\Lab7\Lab7\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+X:\ASP.NET\Lab7\Lab7\Task5\obj\Debug\Task5.exe
+X:\ASP.NET\Lab7\Lab7\Task5\obj\Debug\Task5.pdb

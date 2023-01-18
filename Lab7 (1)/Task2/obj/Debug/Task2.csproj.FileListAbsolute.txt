@@ -1,0 +1,16 @@
+X:\ASP.NET\Lab7\Lab7\Task2\bin\Debug\Task2.exe.config
+X:\ASP.NET\Lab7\Lab7\Task2\bin\Debug\Task2.exe
+X:\ASP.NET\Lab7\Lab7\Task2\bin\Debug\Task2.pdb
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\MainWindow.g.cs
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\App.g.cs
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2_MarkupCompile.cache
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2_MarkupCompile.lref
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\MainWindow.baml
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.g.resources
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.Properties.Resources.resources
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.exe
+X:\ASP.NET\Lab7\Lab7\Task2\obj\Debug\Task2.pdb
