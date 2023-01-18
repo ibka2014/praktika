@@ -7,11 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="QQ" Content="Вывод" HorizontalAlignment="Left" Margin="380,239,0,0" VerticalAlignment="Top" Width="67" Height="22" Click="QQ_Click" Background="White"/>
-        <TextBox x:Name="number1" HorizontalAlignment="Left" Height="77" Margin="182,141,0,201" TextWrapping="Wrap" VerticalAlignment="Center" Width="191" Background="#FF2CA0F1"/>
-        <TextBox x:Name="number2" HorizontalAlignment="Left" Height="77" Margin="477,141,0,201" TextWrapping="Wrap" VerticalAlignment="Center" Width="186" Background="#FF2CA0F1"/>
-        <Button x:Name="change" Content="Переключить c четного на нечетный" HorizontalAlignment="Left" Height="97" Margin="198,291,0,0" VerticalAlignment="Top" Width="429" Click="change_Click" Background="White" FontSize="20"/>
-        <Label x:Name="l" Content="" HorizontalAlignment="Left" Height="32" Margin="322,70,0,0" VerticalAlignment="Top" Width="164" RenderTransformOrigin="0.483,0.136"/>
-        <Label Content="результат:" HorizontalAlignment="Left" Height="42" Margin="152,60,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.507,0.224" FontSize="18"/>
+        
+        <TextBox x:Name="num1" HorizontalAlignment="Left" Height="64" Margin="267,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="88" Text="1" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="num2" HorizontalAlignment="Left" Height="64" Margin="474,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="88" Text="100" FontWeight="Bold" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Height="35" Margin="267,58,0,0" TextWrapping="Wrap" Text="Певрвое число" VerticalAlignment="Top" Width="81"/>
+        <TextBlock HorizontalAlignment="Left" Height="35" Margin="474,67,0,0" TextWrapping="Wrap" Text="Второе число" VerticalAlignment="Top" Width="81"/>
+        <Label x:Name="Ans1" Content="" HorizontalAlignment="Left" Height="56" Margin="274,265,0,0" VerticalAlignment="Top" Width="119"/>
+        <Label x:Name="Ans2" Content="" HorizontalAlignment="Left" Height="56" Margin="474,265,0,0" VerticalAlignment="Top" Width="119"/>
+        <TextBlock HorizontalAlignment="Left" Height="32" Margin="274,219,0,0" TextWrapping="Wrap" Text="Сумма" VerticalAlignment="Top" Width="129"/>
+        <TextBlock HorizontalAlignment="Left" Height="32" Margin="474,219,0,0" TextWrapping="Wrap" Text="Нечетные числа" VerticalAlignment="Top" Width="129"/>
+        <Button x:Name="Button" Content="Посчитать" HorizontalAlignment="Left" Height="64" Margin="49,107,0,0" VerticalAlignment="Top" Width="109" Click="Button_Click"/>
+
     </Grid>
 </Window>

@@ -41,9 +41,17 @@ namespace lab4._1 {
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
         
+        #line 10 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button QQ;
+        
+        #line default
+        #line hidden
+        
+        
         #line 11 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox num1;
+        internal System.Windows.Controls.TextBox number1;
         
         #line default
         #line hidden
@@ -51,31 +59,23 @@ namespace lab4._1 {
         
         #line 12 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.TextBox num2;
+        internal System.Windows.Controls.TextBox number2;
         
         #line default
         #line hidden
         
         
-        #line 15 "..\..\MainWindow.xaml"
+        #line 13 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.Label Ans1;
+        internal System.Windows.Controls.Button change;
         
         #line default
         #line hidden
         
         
-        #line 16 "..\..\MainWindow.xaml"
+        #line 14 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.Label Ans2;
-        
-        #line default
-        #line hidden
-        
-        
-        #line 19 "..\..\MainWindow.xaml"
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
-        internal System.Windows.Controls.Button Button;
+        internal System.Windows.Controls.Label l;
         
         #line default
         #line hidden
@@ -111,25 +111,31 @@ namespace lab4._1 {
             switch (connectionId)
             {
             case 1:
-            this.num1 = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 2:
-            this.num2 = ((System.Windows.Controls.TextBox)(target));
-            return;
-            case 3:
-            this.Ans1 = ((System.Windows.Controls.Label)(target));
-            return;
-            case 4:
-            this.Ans2 = ((System.Windows.Controls.Label)(target));
-            return;
-            case 5:
-            this.Button = ((System.Windows.Controls.Button)(target));
+            this.QQ = ((System.Windows.Controls.Button)(target));
             
-            #line 19 "..\..\MainWindow.xaml"
-            this.Button.Click += new System.Windows.RoutedEventHandler(this.Button_Click);
+            #line 10 "..\..\MainWindow.xaml"
+            this.QQ.Click += new System.Windows.RoutedEventHandler(this.QQ_Click);
             
             #line default
             #line hidden
+            return;
+            case 2:
+            this.number1 = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 3:
+            this.number2 = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 4:
+            this.change = ((System.Windows.Controls.Button)(target));
+            
+            #line 13 "..\..\MainWindow.xaml"
+            this.change.Click += new System.Windows.RoutedEventHandler(this.change_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 5:
+            this.l = ((System.Windows.Controls.Label)(target));
             return;
             }
             this._contentLoaded = true;

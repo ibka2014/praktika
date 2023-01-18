@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\practika\praktika\lab4\lab4.1\obj\Debug\lab4.1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\practika\praktika\lab4\lab4.1\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\practika\praktika\lab4\lab4.1\obj\Debug\App.g.cs
+C:\Users\user\Desktop\practika\praktika\lab4\lab4.1\obj\Debug\lab4.1_MarkupCompile.cache
+C:\Users\user\Desktop\practika\praktika\lab4\lab4.1\obj\Debug\lab4.1_MarkupCompile.lref

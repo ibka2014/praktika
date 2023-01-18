@@ -24,50 +24,23 @@ namespace lab4._1
         {
             InitializeComponent();
         }
-        int TT = 0;
-        int RR = 0;
-        bool EE = false;
-        private void QQ_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            try
+            int sum = 0;
+            string cont = "";
+            int i = Convert.ToInt32(num1.Text);
+            int n = Convert.ToInt32(num2.Text);
+            for (; i != n + 1; i++)
             {
-                TT = Convert.ToInt32(number1.Text);
-                RR = Convert.ToInt32(number2.Text);
-                l.Content = "";
-                if (TT >= RR)
+                sum += i;
+                if (i % 2 != 0)
                 {
-                    l.Content = "ошибка";
-                }
-                else
-                {
-                    for (int a = TT + 1; a < RR; a++)
-                    {
-                        if (EE)
-                        {
-                            if (a % 2 == 0)
-                                continue;
-                            else
-                                Doom.Content += $"{a} ";
-                        }
-                        else
-                        {
-                            l.Content += $"{a} ";
-                        }
-                    }
+                    cont += Convert.ToString(i);
+                    cont += " ";
                 }
             }
-            catch
-            {
-                l.Content = "ошибка";
-            }
-        }
-
-        private void change_Click(object sender, RoutedEventArgs e)
-        {
-            l.Content = "";
-            EE = !EE;
+            Ans1.Content = sum;
+            Ans2.Content = cont;
         }
     }
 }
-    
-
